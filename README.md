@@ -1,6 +1,6 @@
 # LAUNCHER CREATOR
 
-a python tool to create and edit launchers in linux easly, with a GUI made in PyQt5 using Qt Designer.
+A python tool to create and edit launchers in linux easly, with a GUI made in PyQt5 using Qt Designer.
 
 ### NOTES FOR DELEVOPERS
 
